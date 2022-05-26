@@ -37,11 +37,11 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Testing
 
 - GET all products, categories, and tags within the database.
-(./images/GET_all.gif)
+![GET ALL](./images/GET_all.gif)
 
 
 -GET 1 product, category, tag with id of 1.
-(./images/GET_1.gif)
+![GET 1](./images/GET_1.gif)
 
 -POST, PUSH, and DELETE from the database.
-(./images/POST_PUSH_DELETE.gif)
+![POST PUSH DELETE](./images/POST_PUSH_DELETE.gif)
